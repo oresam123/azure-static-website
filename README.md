@@ -4,7 +4,7 @@
 Project to demonstrate how to host a static website on Micrososft Azure.
 
 ## Live Site
-[View Live Site](https://statwebstrgrp1.blob.core.windows.net/$web/404.html)
+[View Live Site](https://statwebstrgrp1.z5.web.core.windows.net/)
 
 ## Architecture
 Simple diagram or description — Storage Account → Static Website → Browser
