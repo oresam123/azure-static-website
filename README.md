@@ -58,7 +58,7 @@ Cost was a deliberate consideration in this architecture. Azure Blob Storage sta
 ![Live Site](screenshots/04-live-site.png)
 
 ### Error Page
-![Error Page](screenshots/05-live-site.png)
+![Error Page](screenshots/05-error-page.png)
 
 ## What I Learned
 - How to provision and configure Azure Storage Accounts
