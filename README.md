@@ -26,7 +26,7 @@ azure-static-website/
 
 ## Services Used
 - Azure Blob Storage (Static Website feature)
-- Azure Storage Explorer / CLI
+- Azure   Portal - used to configure and create resources
 
 ## Steps to Reproduce
 1. Log in to Azure Portal and create a new **Resource Group**
